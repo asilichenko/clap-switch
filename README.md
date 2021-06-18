@@ -15,3 +15,7 @@
 # Схема распайки компонентов на плате
 
 <img width="300" src="https://github.com/asilichenko/clap-switch/blob/main/img/pcb.jpg"/>
+
+# Пример функционирования готового устройства
+
+[![Выключатель по хлопку на ATiny](http://img.youtube.com/vi/AOuvBQHyRcY/0.jpg)](http://www.youtube.com/watch?v=AOuvBQHyRcY "Выключатель по хлопку на ATiny")
