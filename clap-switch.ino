@@ -30,7 +30,6 @@
 #include <avr/sleep.h>
 
 #define RELAY_PIN PB3
-#define BTN_PIN   PB0
 
 // сколько хлопков переключает реле
 #define CLAP_NUMBER_SWITCH    2
